@@ -7,3 +7,6 @@ Para mí la tecnología es una herramienta que conecta a las personas, las ideas
 | Diseño | Electrónica Básica| Neumática | ODS | Teleco Games |
 | ------ | ----------------- | --------- | --- | ------------ |
 | Enlace | Enlace | Enlace | Enlace | Enlace |
+
+# Modificar
+<img width="800" height="670" alt="image" src="https://github.com/user-attachments/assets/f4d87a6e-1204-4c18-8c37-7c0de46414ee" />
