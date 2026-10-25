@@ -7,11 +7,13 @@ Para mí la tecnología es una herramienta que conecta a las personas, las ideas
 ## Enlaces
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
-| `Diseño` | imagen | [Pincha aquí]() |
-| `Electrónica básica` | imagen | [Pincha aquí]() |
-| `Neumática` | imagen | [Pincha aquí]() |
-| `Teleco Games` | imagen | [Pincha aquí]() |
-| `ODS` | imagen | [Pincha aquí]() |
+| `Diseño` | imagen | [Pincha aquí]() 
+|
+| `Electrónica básica` | <img width="738" height="294" alt="images" src="https://github.com/user-attachments/assets/93033b8a-c1d5-4be8-9df6-362181871b59" /> | [Pincha aquí]() |
+| `Neumática` | <img width="656" height="467" alt="images" src="https://github.com/user-attachments/assets/e2f37282-cd97-4f65-b269-c75d739df22b" /> | [Pincha aquí]() |
+| `Teleco Games` | <img width="612" height="402" alt="image" src="https://github.com/user-attachments/assets/bbc30b87-6c8e-4533-b21e-be7e0444c69e" />
+ | [Pincha aquí]() |
+| `ODS` | <img width="738" height="255" alt="images" src="https://github.com/user-attachments/assets/c1b1755e-d302-43dd-8e36-f58f1a6637a3" /> | [Pincha aquí]() |
 
 
 # Modificar
