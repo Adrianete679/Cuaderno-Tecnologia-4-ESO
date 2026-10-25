@@ -14,15 +14,3 @@ Para mí la tecnología es una herramienta que conecta a las personas, las ideas
 | `ODS` | <img width="738" height="255" alt="images" src="https://github.com/user-attachments/assets/c1b1755e-d302-43dd-8e36-f58f1a6637a3" /> | [Pincha aquí](https://github.com/Adrianete679/Cuaderno-Tecnologia-4-ESO/tree/main/ODS) |
 | `Teleco Games` | <img width="612" height="402" alt="image" src="https://github.com/user-attachments/assets/bbc30b87-6c8e-4533-b21e-be7e0444c69e" />
  | [Pincha aquí](https://github.com/Adrianete679/Cuaderno-Tecnologia-4-ESO/tree/main/Teleco%20Games) |
-
-# Modificar
-<img width="800" height="670" alt="image" src="https://github.com/user-attachments/assets/f4d87a6e-1204-4c18-8c37-7c0de46414ee" />
-
-
-| Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
-| --- | --- | --- |
-| `Diseño` | <img src="Imágenes inicios de curso/Diseño digital.jpg" width="300" height="300" /> | [Pincha aquí]() |
-| `Electrónica básica` | <img src="Imágenes inicios de curso/Electrónica básica.jpg" width="300" height="300" /> | [Pincha aquí]() |
-| `Neumática` | <img src="Imágenes inicios de curso/Neumática.jpg" width="300" height="300" /> | [Pincha aquí]() |
-| `Teleco Games` | <img src="Imágenes inicios de curso/Teleco games.jpg" width="300" height="300" /> | [Pincha aquí]() |
-| `ODS` | <img src="Imágenes inicios de curso/ODS.jpg" width="300" height="300" /> | [Pincha aquí]() |
