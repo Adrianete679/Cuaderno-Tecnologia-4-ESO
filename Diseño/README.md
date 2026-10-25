@@ -1,5 +1,6 @@
 <p align="center">
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/8913c314-7968-49f2-b730-f9b8630f26ac" />
+<img width="549" height="441" alt="image" src="https://github.com/user-attachments/assets/acad8441-039c-43bb-82bb-d91dd235f6b6" />
+
 
 # Exposición del mapa tecnológico en 3D de la provincia de andalucía
 
