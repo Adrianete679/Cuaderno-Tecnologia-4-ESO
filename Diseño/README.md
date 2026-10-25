@@ -1,5 +1,5 @@
-<pag alinear="centro">
-<p align="center"> <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/5b399382-788b-493e-83d6-cd78862c649c" />
+<p align="center">
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/8913c314-7968-49f2-b730-f9b8630f26ac" />
 
 # Ideas
 Idea 1. Mi idea principal era colgar/atornillar el mapa en el lugar donde se proyectan las imágenes y los vídeos, pero como entorpecería a la hora de proyectar, pues he pensado que delante de el mapa, se podría poner una pantalla blanca que se pueda abrir y cerrar para que se pueda proyectar tranquilamente sin necesidad de que se vea el mapa en mitad de la proyección. Pero los aspectos negativos que le veo a esta idea son varios: 1. Tendría que mirar para arriba para verlo y te puedes hacer daño en el cuello, a no ser que te subas a la parte de arriba; 2. Cuesta bastante dinero ya que habría que coger un andamio; 3. Si lo atornillas a la pared puedes dañar la estructura del edificio, y si lo cuelgas se pueden romper las cuerdas o hacer que se hunda el techo; 4. Si algún componente o cualquier cosa se rompe, es muy difícil poder coger el mapa y cambiar el elemento.
