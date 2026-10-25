@@ -3,11 +3,7 @@
 <p align="center"> <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/5b399382-788b-493e-83d6-cd78862c649c" />
 
 Bienvenidos a mi cuaderno de Tecnología de 4º de ESO. Aquí voy a explicar todo lo que veremos en este curso sobre la asignatura. Vamos a relacionarnos con el diseño, la neumática, la electrónica básica, los teleco games, además de los ODS.
-A continuación, los enlaces a las distintas carpetas de los distintos proyectos:
-
-
-
-## Enlaces
+Aquí te dejo los enlaces a las distintas carpetas de los distintos proyectos:
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
 | `Diseño` | <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/8913c314-7968-49f2-b730-f9b8630f26ac" />
