@@ -7,7 +7,8 @@ Para mí la tecnología es una herramienta que conecta a las personas, las ideas
 ## Enlaces
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
-| `Diseño` | imagen | [Pincha aquí]() 
+| `Diseño` | <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/8913c314-7968-49f2-b730-f9b8630f26ac" />
+ | [Pincha aquí]() 
 |
 | `Electrónica básica` | <img width="738" height="294" alt="images" src="https://github.com/user-attachments/assets/93033b8a-c1d5-4be8-9df6-362181871b59" /> | [Pincha aquí]() |
 | `Neumática` | <img width="656" height="467" alt="images" src="https://github.com/user-attachments/assets/e2f37282-cd97-4f65-b269-c75d739df22b" /> | [Pincha aquí]() |
