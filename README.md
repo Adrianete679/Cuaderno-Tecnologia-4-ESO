@@ -1,6 +1,6 @@
 # Cuaderno-Tecnologia-4-ESO
 <p align="center"> 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8d514f22-9b68-4a81-aebe-63405e735bbf" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/08ea86a9-ff81-47dd-ae8c-000bd5318077" />
 
 
 Bienvenidos a mi cuaderno de Tecnología de 4º de ESO. Aquí voy a explicar todo lo que veremos en este curso sobre la asignatura. Vamos a relacionarnos con el diseño, la neumática, la electrónica básica, los teleco games, además de los ODS.
