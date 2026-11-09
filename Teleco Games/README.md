@@ -1,1 +1,86 @@
+´Imagen de teleco games´
 
+# Idea inividual
+## Idea Grupal
+El profesor Antonio, nos dijo que hiciesemos dos equipo, el mio está compuesto por Alejandro Reyes, Daniel Boyano, Alberto Piñary yo.
+El proyecto elegido por nosotros a sido el de Daniel, ya que es e que mejor se puede adaptar y más ODS cumple ya que cumple 8(el 2,6,7,8,9,11,14,15
+). Eso si, si todo sale bien, en caso de que no salga del todo bien, de esos 8 solo cumplirá 4(2,6,9,11).
+
+El proyecto consiste en 
+
+
+
+
+# Idea Grupal
+En este apartado se expondrá de manera fiel y detallada, los proyectos y avances para dicha competición. Esta era mi idea individual, ahora se pone en común con mi equipo para desarrollarla y mejorala lo máximo posible.
+
+## Presentación del proyecto
+Este consiste en la creación de un sistema cíclico interconectado del empleo de agua en una ciudad simulada, en el cual se muestran fuentes que se intercomunican e interactuan con el usuario evitando al máximo el desperdicio de agua, dicha agua contaminada se dirigiría a un depósito, el cual dispensa agua en el caso de que la tierra de jardines y huertos públicos lo necesite, atomatizando así el sistema de regadió, en función de los requerimientos de la tierra.
+El proyecto se titula __AquaNet__
+
+### ¿Cómo se llevaría a cabo el simulacro?
+Esta maqueta necesita de una base de ciudad canalizada lo más realista posible, está debería contar con jardines y huertos con sus respectivos sensores de humedad, integrados en la tierra y depósitos con servomotores para poder activar el mecanismo de dispersión del agua.
+
+El sistema de conducción de la propia agua deberá ser extenso y muy ramificado para poder controlar y organizar de una mejor manera el agua, para ello se requiere de un depósito de agua junto a una bomba que la impulse y unas tuberías para así conducirla a hacia donde nos interese.
+
+En determinados puntos se añadiría una fuente la cual al notar nuestra presencia con un ultrasonido o con un infrarrojo activa un servomotor que abre el grifo para así poder beber agua y de una forma extraordinariamente rápida, corta el chorro al dejar de notar nuestra presencia, para así evitar el desperdicio de agua al máximo, el agua que ha mantenido contacto con el usuario, circula por un conducto paralelo al general, el cual deposita el agua en el depósito próximo a la tierra. Al haber varias fuentes en esta ciudad, en el momento que se activa el grifo, en las otras fuentes se puede encender un led en color rojo, indicando así que hay otra fuente en uso, y un led verde encendido en el depósito de regadío para indicar la llegada de agua nueva.
+
+Todos los datos se pueden transmitir a una web en tiempo real, en la cual se podrán contabilizar y analizar los datos recabados, estos datos serían: la humedad de la tierra, cuándo se encienden las fuentes, cada cuanto la tierra necesitae riego, nivel de agua de los depósitos, etc
+
+### Ciberseguridad
+Las señales de intercomunicación deberán estar encriptadas para que nadie externo acceda a ellas.
+
+La web contará con un PIN para acceder a todo el conteo de datos.
+
+Los canales serán subterráneos, aunque no en el simulacro, para así evitar que toda persona ajena acceda a ellos.
+
+### ¿Que OODS desarrolla?
+En este proyecto se desarrollan tres ODS de forma directa, estos son: hambre cero puesto que se automatiza el regadío para los cultivos y esto podrá provocar una mayor cantidad de productos originarios de la tierra, agua y saneamiento y finalmente, ciudades y comunidades sostenibles.
+
+### Ideas extras aplicables(Pullitas)
+-Filtrado de aguas de lluvia previamente captadas en un depósito.
+
+-Comunicación con una web que contbiilize y registre los datos, clasificados por fecha.
+
+-Ejemplos de casas inteligentes en la propia ciudad, y que el sitema de tuberías se integre en ella.
+
+-App para manejar el sistema de regadío
+
+-La bomba de agua se alimentaría por una parte de energía solar
+
+-Integrar un algoritmo que realice gráficas de consumo de agua y humedad de la tierra, y que haga predicciones acerca de cuándo será la próxima vez que la tierra necesite agua, etc
+
+-Fuente con agua y sparkel de sentido ornamental
+
+-Pecera para contener vida acuática
+
+-Cultivar alimentos reales en este espacio de tierra, como lentejas
+
+### Tareas
+-Maqueta canalizada 3D
+
+-Diseño de las fuentes
+
+-Diseño de la web
+
+-Canalización y sitema de tuberías
+
+-Diseño de los espacios de tierra
+
+### Materiales
+
+|   | Materiales |
+|:----:|--------|
+| 1 | bomba de agua |
+| 2 | tubería |
+| 3 | filtro |
+| 4 | canalización |
+| 5 | sensores de humedad |
+| 6 | depósitos con grifos|
+| 7 | servomotores |
+| 8 | fuentes |
+| 9 |  aspersores |
+| 10 | ultrasonidos |
+| 11 | poliespan |
+| 12 | gran depósito |
+| 13 | tablero |
