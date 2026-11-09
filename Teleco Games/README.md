@@ -11,7 +11,7 @@ El proyecto consiste en
 
 
 
-# Idea Grupal
+# Idea Grupal(Idea Daniel, Explicar con mis palabras)
 En este apartado se expondrá de manera fiel y detallada, los proyectos y avances para dicha competición. Esta era mi idea individual, ahora se pone en común con mi equipo para desarrollarla y mejorala lo máximo posible.
 
 ## Presentación del proyecto
