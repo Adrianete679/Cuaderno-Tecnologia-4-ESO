@@ -15,10 +15,12 @@ El cálculo para resolver esta actividad es el siguiente:
 
 `Si reemplazamos los valores, la operación quedaría tal que así:`
 
+`220Ω=(Vfuente-2V)/0'015A`
+
 220Ω=(Vfuente-2V)/0'015A ; 220Ω*0'015A+2V=Vfuente ; 5,3=Vfuente
 
 ## LED
 
 ## Transistores
-
+valor que me ha medido 830 y 831.
 ## Relés
