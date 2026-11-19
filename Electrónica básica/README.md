@@ -1,4 +1,4 @@
-# IMAGEN 
+<img width="738" height="294" alt="image" src="https://github.com/user-attachments/assets/d53cb0cd-3d6a-4684-9b61-2795d2621ed9" />
 
 ## Resistencias Fijas
 
