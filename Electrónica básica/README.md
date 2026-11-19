@@ -4,6 +4,13 @@
 ## Resistencias Fijas
 
 ## Resistencias Variables (potenciómetros, NTC, PTC y LDR).
+### Potenciómetro
+
+### NTC
+
+### PTC
+
+### LDR
 
 ## Condensadores
 
