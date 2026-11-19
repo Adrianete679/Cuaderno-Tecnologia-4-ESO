@@ -1,4 +1,5 @@
-´Imagen de teleco games´
+<img width="612" height="402" alt="image" src="https://github.com/user-attachments/assets/3c112221-f3ab-47f5-b977-6d4f65590f4f" />
+
 
 # Idea inividual
 ## Idea Grupal
